@@ -1,0 +1,16 @@
+{
+    "name": "CrossoverGame.Models",
+    "rootNamespace": "CrossoverGame.Models",
+    "references": [
+        "GUID:93e5b0bae2a59b94eb2e9cb50b18c204"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "CrossoverGame.Controllers",
+    "rootNamespace": "CrossoverGame.Controllers",
+    "references": [
+        "GUID:b140b3b983593ce46b962efd44eb4606",
+        "GUID:970bc88a68a005846bb14e11e277dbf9",
+        "GUID:4088fbb007d7e184696496b35d23b635",
+        "GUID:93e5b0bae2a59b94eb2e9cb50b18c204"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

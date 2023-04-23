@@ -1,0 +1,20 @@
+{
+    "name": "CrossoverGame.Application",
+    "rootNamespace": "CrossoverGame.Application",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:597b399b241bcfa468ade6362ac835fd",
+        "GUID:4088fbb007d7e184696496b35d23b635",
+        "GUID:912b21c6c51853343a08f8cf5b8a5c84",
+        "GUID:b140b3b983593ce46b962efd44eb4606"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
