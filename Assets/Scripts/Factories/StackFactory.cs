@@ -8,6 +8,9 @@ namespace CrossoverGame.Factories
 {
     public class StackFactory : MonoBehaviour
     {
+        private const string sixthGrade = "6th Grade";
+        private const string seventhGrade = "7th Grade";
+        private const string eightGrade = "8th Grade";
         [SerializeField]
         private ConstantsScriptableObject _constants;
 
@@ -26,13 +29,13 @@ namespace CrossoverGame.Factories
             {
                 switch (blockController.BlockModel.Grade)
                 {
-                    case "6th Grade":
+                    case sixthGrade:
                         _stackA.AddBlockToList(blockController.BlockModel, blockController.BlockView);
                         break;
-                    case "7th Grade":
+                    case seventhGrade:
                         _stackB.AddBlockToList(blockController.BlockModel, blockController.BlockView);
                         break;
-                    case "8th Grade":
+                    case eightGrade:
                         _stackC.AddBlockToList(blockController.BlockModel, blockController.BlockView);
                         break;
                     default:
